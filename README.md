@@ -1,4 +1,4 @@
-# fedoradesktop-ansible-pull-
+# fedoradesktop-ansible-pull
 #CAO : 17 June 20222
 
 This is where the collection of config file and scripts for my automated/custom Fedora Workstation deployent live. 
